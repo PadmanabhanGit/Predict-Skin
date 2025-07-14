@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import cv2
+import cv2 as cv2
 import tensorflow as tf
 from tensorflow.keras.models import load_model, Model
 from tensorflow.keras.preprocessing import image
